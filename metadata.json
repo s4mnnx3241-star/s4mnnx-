@@ -1,0 +1,6 @@
+{
+  "name": "Skill War - Free Fire Tournament",
+  "description": "Mobile esports tournament platform for Free Fire and Free Fire MAX with daily cash matches, custom room keys, kill rewards, instant wallet cash-out, and admin tournament manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
